@@ -14,6 +14,7 @@ Given a version number MAJOR.MINOR.PATCH, increment:
 
 ## [Unreleased]
 
+## [0.0.1] - 2022-09-07
 ### Added
 - SignatureRequest resource with parse() method
 - Document resource with get() and sign() methods
